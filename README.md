@@ -14,7 +14,7 @@ We are required to set up a server ensuring specific partitioning (LVM), strict 
 ## INSTRUCTIONS
 
 ### Testing signature
-1.  Located the `.vdi` in sgoinfre/Born2BeRoot/.
+1.  Located the `.vdi` in /sgoinfre/Born2BeRoot/.
 2.  Verify the signature (`shasum`) matches the one provided in the submission file `signature.txt`.
 
 ### Execution
@@ -25,7 +25,7 @@ We are required to set up a server ensuring specific partitioning (LVM), strict 
     ssh <username>@localhost -p 4241
     ```
 
-## Resources
+## RESOURCES
 - The official project statement (en.subject.pdf).
 - Information retrieved through a web browser.
 - Peer-to-peer.
